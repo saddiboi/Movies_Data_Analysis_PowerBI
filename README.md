@@ -4,7 +4,7 @@
 
 An interactive Power BI dashboard built on the TMDB movie dataset, exploring what drives film popularity — by director, genre, and era — backed by a Python cleaning pipeline and a star-schema data model.
 
-![Dashboard Preview](<img width="778" height="442" alt="image" src="https://github.com/user-attachments/assets/c67eec92-6de2-48eb-9a37-32ed7905fcc6" />)
+<img width="778" height="442" alt="image" src="https://github.com/user-attachments/assets/c67eec92-6de2-48eb-9a37-32ed7905fcc6" />
 
 > **Two stages, one project.** This repo pairs a **Python data-cleaning & analysis** stage with a **Power BI dashboard** stage — the pipeline transforms the raw TMDB file into a clean star schema, which the dashboard then visualises.
 
